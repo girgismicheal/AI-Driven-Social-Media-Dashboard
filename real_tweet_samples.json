@@ -1,0 +1,309 @@
+{
+	"created_at": "Sun Sep 06 13:21:21 +0000 2020",
+	"id": 1302597758382231553,
+	"id_str": "1302597758382231553",
+	"text": "RT @KarluskaP: World Bank Records COVID-19 Test Kits Exported In 2018 - National File #TheMoreYouKnow  https://t.co/CqdlVpuilV",
+	"truncated": false,
+	"entities": {
+		"hashtags": [
+			{
+				"text": "TheMoreYouKnow",
+				"indices": [
+					86,
+					101
+				]
+			}
+		],
+		"symbols": [],
+		"user_mentions": [
+			{
+				"screen_name": "KarluskaP",
+				"name": "Karli \ud83c\uddfa\ud83c\uddf8",
+				"id": 1199522589573554176,
+				"id_str": "1199522589573554176",
+				"indices": [
+					3,
+					13
+				]
+			}
+		],
+		"urls": [
+			{
+				"url": "https://t.co/CqdlVpuilV",
+				"expanded_url": "https://nationalfile.com/world-bank-records-covid-19-test-kits-exported-in-2018/",
+				"display_url": "nationalfile.com/world-bank-rec\u2026",
+				"indices": [
+					103,
+					126
+				]
+			}
+		]
+	},
+	"metadata": {
+		"iso_language_code": "en",
+		"result_type": "recent"
+	},
+	"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+	"in_reply_to_status_id": null,
+	"in_reply_to_status_id_str": null,
+	"in_reply_to_user_id": null,
+	"in_reply_to_user_id_str": null,
+	"in_reply_to_screen_name": null,
+	"user": {
+		"id": 728936044867948544,
+		"id_str": "728936044867948544",
+		"name": "Kim Doering",
+		"screen_name": "roxyminimutt",
+		"location": "Texas, USA",
+		"description": "Patriot, wife, mother, TX proud, Q follower, and had enough of the corona bs! Removed my # because  of the purge",
+		"url": null,
+		"entities": {
+			"description": {
+				"urls": []
+			}
+		},
+		"protected": false,
+		"followers_count": 911,
+		"friends_count": 1421,
+		"listed_count": 0,
+		"created_at": "Sat May 07 13:14:30 +0000 2016",
+		"favourites_count": 46140,
+		"utc_offset": null,
+		"time_zone": null,
+		"geo_enabled": false,
+		"verified": false,
+		"statuses_count": 15573,
+		"lang": null,
+		"contributors_enabled": false,
+		"is_translator": false,
+		"is_translation_enabled": false,
+		"profile_background_color": "F5F8FA",
+		"profile_background_image_url": null,
+		"profile_background_image_url_https": null,
+		"profile_background_tile": false,
+		"profile_image_url": "http://pbs.twimg.com/profile_images/1300862376795930626/PZWSUr5a_normal.jpg",
+		"profile_image_url_https": "https://pbs.twimg.com/profile_images/1300862376795930626/PZWSUr5a_normal.jpg",
+		"profile_banner_url": "https://pbs.twimg.com/profile_banners/728936044867948544/1597874298",
+		"profile_link_color": "1DA1F2",
+		"profile_sidebar_border_color": "C0DEED",
+		"profile_sidebar_fill_color": "DDEEF6",
+		"profile_text_color": "333333",
+		"profile_use_background_image": true,
+		"has_extended_profile": false,
+		"default_profile": true,
+		"default_profile_image": false,
+		"following": false,
+		"follow_request_sent": false,
+		"notifications": false,
+		"translator_type": "none"
+	},
+	"geo": null,
+	"coordinates": null,
+	"place": null,
+	"contributors": null,
+	"retweeted_status": null,
+	"is_quote_status": false,
+	"retweet_count": 621,
+	"favorite_count": 0,
+	"favorited": false,
+	"retweeted": false,
+	"possibly_sensitive": false,
+	"lang": "en"
+},
+{
+"created_at": "Sun Sep 06 13:21:21 +0000 2020",
+"id": 1302597757694357505,
+"id_str": "1302597757694357505",
+"text": "RT @FacesOfCOVID: KEITH BROWN, 48, of Charleston, South Carolina, died of COVID-19 on September 2.\n\nHe was a devoted EMT who took ill in th\u2026",
+"truncated": false,
+"entities": {
+	"hashtags": [],
+	"symbols": [],
+	"user_mentions": [
+		{
+			"screen_name": "FacesOfCOVID",
+			"name": "FacesOfCOVID",
+			"id": 1244960680001835010,
+			"id_str": "1244960680001835010",
+			"indices": [
+				3,
+				16
+			]
+		}
+	],
+	"urls": []
+},
+"metadata": {
+	"iso_language_code": "en",
+	"result_type": "recent"
+},
+"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+"in_reply_to_status_id": null,
+"in_reply_to_status_id_str": null,
+"in_reply_to_user_id": null,
+"in_reply_to_user_id_str": null,
+"in_reply_to_screen_name": null,
+"user": {
+	"id": 822524419058712576,
+	"id_str": "822524419058712576",
+	"name": "Torn&Frayed \u2696",
+	"screen_name": "shattered75",
+	"location": "\"Drug infested Den\" NH",
+	"description": "Born Dem #NastyWoman #BidenHarris #TeamJustice #BLM #ChildrenInCages  #45Treason \nMarried 38yrs/NoDM \nw/o Music \ud83c\udfb6 life would be a mistake #UnionStrong #ERANow",
+	"url": null,
+	"entities": {
+		"description": {
+			"urls": []
+		}
+	},
+	"protected": false,
+	"followers_count": 6501,
+	"friends_count": 6947,
+	"listed_count": 2,
+	"created_at": "Fri Jan 20 19:21:18 +0000 2017",
+	"favourites_count": 203745,
+	"utc_offset": null,
+	"time_zone": null,
+	"geo_enabled": false,
+	"verified": false,
+	"statuses_count": 37546,
+	"lang": null,
+	"contributors_enabled": false,
+	"is_translator": false,
+	"is_translation_enabled": false,
+	"profile_background_color": "000000",
+	"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+	"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+	"profile_background_tile": false,
+	"profile_image_url": "http://pbs.twimg.com/profile_images/1166563614293155840/GWNB_Jwe_normal.png",
+	"profile_image_url_https": "https://pbs.twimg.com/profile_images/1166563614293155840/GWNB_Jwe_normal.png",
+	"profile_banner_url": "https://pbs.twimg.com/profile_banners/822524419058712576/1527037170",
+	"profile_link_color": "642EFE",
+	"profile_sidebar_border_color": "000000",
+	"profile_sidebar_fill_color": "000000",
+	"profile_text_color": "000000",
+	"profile_use_background_image": false,
+	"has_extended_profile": false,
+	"default_profile": false,
+	"default_profile_image": false,
+	"following": false,
+	"follow_request_sent": false,
+	"notifications": false,
+	"translator_type": "none"
+},
+"geo": null,
+"coordinates": null,
+"place": null,
+"contributors": null,
+"retweeted_status": {
+	"created_at": "Sun Sep 06 12:40:02 +0000 2020",
+	"id": 1302587362904596481,
+	"id_str": "1302587362904596481",
+	"text": "KEITH BROWN, 48, of Charleston, South Carolina, died of COVID-19 on September 2.\n\nHe was a devoted EMT who took ill\u2026 https://t.co/RmlrKNih8o",
+	"truncated": true,
+	"entities": {
+		"hashtags": [],
+		"symbols": [],
+		"user_mentions": [],
+		"urls": [
+			{
+				"url": "https://t.co/RmlrKNih8o",
+				"expanded_url": "https://twitter.com/i/web/status/1302587362904596481",
+				"display_url": "twitter.com/i/web/status/1\u2026",
+				"indices": [
+					117,
+					140
+				]
+			}
+		]
+	},
+	"metadata": {
+		"iso_language_code": "en",
+		"result_type": "recent"
+	},
+	"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+	"in_reply_to_status_id": null,
+	"in_reply_to_status_id_str": null,
+	"in_reply_to_user_id": null,
+	"in_reply_to_user_id_str": null,
+	"in_reply_to_screen_name": null,
+	"user": {
+		"id": 1244960680001835010,
+		"id_str": "1244960680001835010",
+		"name": "FacesOfCOVID",
+		"screen_name": "FacesOfCOVID",
+		"location": "",
+		"description": "Stories of those lost in the US to COVID-19 per news reports & obits. Each story matters. Support local journalism. Curated by @alexjgoldstein.",
+		"url": "https://t.co/uifrP6Jsuj",
+		"entities": {
+			"url": {
+				"urls": [
+					{
+						"url": "https://t.co/uifrP6Jsuj",
+						"expanded_url": "https://www.bostonglobe.com/2020/05/12/opinion/remembering-lives-lost-coronavirus-one-tweet-time/",
+						"display_url": "bostonglobe.com/2020/05/12/opi\u2026",
+						"indices": [
+							0,
+							23
+						]
+					}
+				]
+			},
+			"description": {
+				"urls": []
+			}
+		},
+		"protected": false,
+		"followers_count": 66207,
+		"friends_count": 92,
+		"listed_count": 255,
+		"created_at": "Tue Mar 31 12:12:20 +0000 2020",
+		"favourites_count": 1440,
+		"utc_offset": null,
+		"time_zone": null,
+		"geo_enabled": false,
+		"verified": false,
+		"statuses_count": 2558,
+		"lang": null,
+		"contributors_enabled": false,
+		"is_translator": false,
+		"is_translation_enabled": false,
+		"profile_background_color": "F5F8FA",
+		"profile_background_image_url": null,
+		"profile_background_image_url_https": null,
+		"profile_background_tile": false,
+		"profile_image_url": "http://pbs.twimg.com/profile_images/1244961554359074820/emareJEM_normal.jpg",
+		"profile_image_url_https": "https://pbs.twimg.com/profile_images/1244961554359074820/emareJEM_normal.jpg",
+		"profile_banner_url": "https://pbs.twimg.com/profile_banners/1244960680001835010/1587259734",
+		"profile_link_color": "1DA1F2",
+		"profile_sidebar_border_color": "C0DEED",
+		"profile_sidebar_fill_color": "DDEEF6",
+		"profile_text_color": "333333",
+		"profile_use_background_image": true,
+		"has_extended_profile": true,
+		"default_profile": true,
+		"default_profile_image": false,
+		"following": false,
+		"follow_request_sent": false,
+		"notifications": false,
+		"translator_type": "none"
+	},
+	"geo": null,
+	"coordinates": null,
+	"place": null,
+	"contributors": null,
+	"is_quote_status": false,
+	"retweet_count": 118,
+	"favorite_count": 495,
+	"favorited": false,
+	"retweeted": false,
+	"possibly_sensitive": false,
+	"lang": "en"
+},
+"is_quote_status": false,
+"retweet_count": 118,
+"favorite_count": 0,
+"favorited": false,
+"retweeted": false,
+"lang": "en"
+},
